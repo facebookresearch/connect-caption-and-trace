@@ -1,0 +1,4 @@
+data/
+*logs/
+log_*/
+coco-caption/
