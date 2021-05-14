@@ -1,5 +1,5 @@
 # connect-caption-and-trace
-This repository contains the reference code for our paper ``Connecting What to Say With Where to Look by Modeling Human Attention Traces'' (CVPR2021).
+This repository contains the reference code for our paper [Connecting What to Say With Where to Look by Modeling Human Attention Traces](https://arxiv.org/abs/2105.05964) (CVPR2021).
 
 ![example results](images/example_coco_tasks_1_2_3.png)
 
